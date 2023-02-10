@@ -2,7 +2,7 @@
 title: "HTB OpenSource:  Privelege Escalation via git-hooks"
 date: 2022-10-11 18:00:00 +0800
 weight: 2
-aliases: ["/opensource"]
+aliases: ["/opensource.html"]
 tags: ["hackthebox","easy","linux", "git-hooks-privesc"]
 author: ["3nnl"]
 showToc: true
@@ -11,7 +11,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "HTB OpenSource walkthrough"
-canonicalURL: "https://canonical.url/to/page"
+canonicalURL: "https://3nnl.github.io/opensource"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
