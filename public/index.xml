@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>3NNL&#39;s stuff</title>
+    <link>https://examplesite.com/</link>
+    <description>Recent content on 3NNL&#39;s stuff</description>
+    <image>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 06 Dec 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HTB OpenSource:  RCE via LFI and privelege escalation via git-hooks</title>
+      <link>https://examplesite.com/posts/opensource/</link>
+      <pubDate>Tue, 11 Oct 2022 18:00:00 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/opensource/</guid>
+      <description>HTB OpenSource writeup</description>
+    </item>
+    
+    <item>
+      <title>HTB MetaTwo: SQLi in Wordpress via CVE-2022-0739 and data leak via XXE CVE-2021-29447</title>
+      <link>https://examplesite.com/posts/meta-two-htb/</link>
+      <pubDate>Tue, 06 Dec 2022 11:30:03 +0000</pubDate>
+      
+      <guid>https://examplesite.com/posts/meta-two-htb/</guid>
+      <description>HTB MetaTwo walkthrough</description>
+    </item>
+    
+    <item>
+      <title>HTB Ambassador: Path Traversal CVE-2021-43798 and RCE in Consul service</title>
+      <link>https://examplesite.com/posts/ambasador/</link>
+      <pubDate>Fri, 16 Sep 2022 11:30:03 +0000</pubDate>
+      
+      <guid>https://examplesite.com/posts/ambasador/</guid>
+      <description>HTB Ambassador walkthrough.</description>
+    </item>
+    
+    
+  </channel>
+</rss>
