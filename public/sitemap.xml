@@ -2,60 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.com/posts/opensource/</loc>
+    <loc>https://3nnl.github.io/posts/opensource/</loc>
     <lastmod>2022-10-11T18:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/meta-two-htb/</loc>
+    <loc>https://3nnl.github.io/posts/meta-two-htb/</loc>
     <lastmod>2022-12-06T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/ambasador/</loc>
+    <loc>https://3nnl.github.io/posts/ambasador/</loc>
     <lastmod>2022-09-16T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/</loc>
+    <loc>https://3nnl.github.io/</loc>
     <lastmod>2022-12-06T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/</loc>
+    <loc>https://3nnl.github.io/categories/</loc>
     <lastmod>2022-12-06T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/easy/</loc>
+    <loc>https://3nnl.github.io/categories/easy/</loc>
     <lastmod>2022-12-06T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/git-hooks-privesc/</loc>
+    <loc>https://3nnl.github.io/categories/git-hooks-privesc/</loc>
     <lastmod>2022-12-06T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/hackthebox/</loc>
+    <loc>https://3nnl.github.io/tags/hackthebox/</loc>
     <lastmod>2022-12-06T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/hackthebox/</loc>
+    <loc>https://3nnl.github.io/categories/hackthebox/</loc>
     <lastmod>2022-12-06T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/linux/</loc>
+    <loc>https://3nnl.github.io/categories/linux/</loc>
     <lastmod>2022-12-06T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/</loc>
+    <loc>https:///posts/</loc>
     <lastmod>2022-12-06T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>https://3nnl.github.io/tags/</loc>
     <lastmod>2022-12-06T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/easy/</loc>
+    <loc>https://3nnl.github.io/tags/easy/</loc>
     <lastmod>2022-10-11T18:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/git-hooks-privesc/</loc>
+    <loc>https://3nnl.github.io/tags/git-hooks-privesc/</loc>
     <lastmod>2022-10-11T18:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/linux/</loc>
+    <loc>https://3nnl.github.io/tags/linux/</loc>
     <lastmod>2022-10-11T18:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/cve-2021-43798/</loc>
+    <loc>https://3nnl.github.io/tags/cve-2021-43798/</loc>
     <lastmod>2022-09-16T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/path-traversal/</loc>
+    <loc>https://3nnl.github.io/tags/path-traversal/</loc>
     <lastmod>2022-09-16T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/rce/</loc>
+    <loc>https://3nnl.github.io/tags/rce/</loc>
     <lastmod>2022-09-16T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/archives/</loc>
+    <loc>https://3nnl.github.io/archives/</loc>
   </url>
 </urlset>
