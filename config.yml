@@ -65,7 +65,7 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: true # needs to be explicitly set
+    enabled: false # needs to be explicitly set
     title: 3NNL
     subtitle: "> HTB/CTF addict."
     imageUrl: "01c318ce6fabb5e4e0bd444683325c4c.jpeg"
